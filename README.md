@@ -32,9 +32,6 @@ All charts respond live to sidebar filters for phase, status, and sponsor.
 **Demo dataset:** ~300 real Type 2 Diabetes trials, pulled live from
 ClinicalTrials.gov.
 
-## 📸 Screenshots
-
-*(Add screenshots of the Overview, Timelines, and Sponsor Benchmark tabs here)*
 
 ## 🗂 Project Structure
 
